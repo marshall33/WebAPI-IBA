@@ -27,7 +27,7 @@ body{
 
 #article2 {
     background-color: #e0e0e0;
-    text-align: left;
+    text-align: center;
     border: 1px solid #000000;
 }
 
@@ -44,4 +44,5 @@ button {
 
 button:hover {
     background-color: #45a049;
+    
 }
